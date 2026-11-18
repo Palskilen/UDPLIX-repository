@@ -1,0 +1,12 @@
+{
+  "url": "https://fembed.co/embed/QMY-GE4_fI9eE",
+  "quality": "1080p",
+  "audio": "pl-lektor",
+  "skips": {
+    "recap": [],
+    "intro": [],
+    "outro": [
+      "1:57:00-2:03:32"
+    ]
+  }
+}
