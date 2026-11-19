@@ -1,5 +1,11 @@
 {
-  "variants": [],
+  "variants": [
+    {
+      "url": "https://fembed.co/embed/scO-ebztI_N07",
+      "quality": "1080p",
+      "audio": "pl-dub"
+    }
+  ],
   "skips": {
     "recap": [],
     "intro": [],
