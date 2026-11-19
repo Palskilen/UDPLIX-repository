@@ -1,0 +1,14 @@
+{
+  "url": "https://fembed.co/embed/ATV_7LUsBU-cy",
+  "quality": "1080p",
+  "audio": "pl-dub",
+  "skips": {
+    "recap": [],
+    "intro": [
+      "0:16-1:38"
+    ],
+    "outro": [
+      "2:07:00-2:16:28"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://fembed.co/embed/6voa-fier_AYt",
+  "quality": "1080p",
+  "audio": "pl-dub",
+  "skips": {
+    "recap": [],
+    "intro": [
+      "0:16-1:40"
+    ],
+    "outro": [
+      "2:17:46-2:25:52"
+    ]
+  }
+}
