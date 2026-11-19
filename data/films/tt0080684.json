@@ -1,0 +1,14 @@
+{
+  "url": "https://fembed.co/embed/Amre_9ACLP-xT",
+  "quality": "720p",
+  "audio": "pl-dub",
+  "skips": {
+    "recap": [],
+    "intro": [
+      "0:00-1:53"
+    ],
+    "outro": [
+      "2:01:56-2:07:25"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://fembed.co/embed/0Rw6IH-63_CFL",
+  "quality": "720p",
+  "audio": "pl-dub",
+  "skips": {
+    "recap": [],
+    "intro": [
+      "0:00-1:54"
+    ],
+    "outro": [
+      "2:07:55-2:14:46"
+    ]
+  }
+}
