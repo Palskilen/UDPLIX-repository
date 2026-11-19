@@ -16,6 +16,42 @@
             "37:04-40:58"
           ]
         }
+      },
+      "2": {
+        "url": "https://fembed.co/embed/vSrZ-Z_v375eX",
+        "quality": "1080p",
+        "audio": [
+          "pl-dub",
+          "en-org"
+        ],
+        "skips": {
+          "recap": [
+            "0:00-1:03"
+          ],
+          "intro": [],
+          "outro": [],
+          "next": [
+            "43:55-47:50"
+          ]
+        }
+      },
+      "3": {
+        "url": "https://fembed.co/embed/W-JkQ_7sU9ioG",
+        "quality": "1080p",
+        "audio": [
+          "pl-dub",
+          "en-org"
+        ],
+        "skips": {
+          "recap": [
+            "0:00-1:05"
+          ],
+          "intro": [],
+          "outro": [],
+          "next": [
+            "49:25-53:19"
+          ]
+        }
       }
     }
   }
