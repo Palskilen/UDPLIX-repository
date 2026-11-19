@@ -52,6 +52,54 @@
             "49:25-53:19"
           ]
         }
+      },
+      "4": {
+        "url": "https://fembed.co/embed/w4-lxlgUNo_DM",
+        "quality": "1080p",
+        "audio": [
+          "pl-dub",
+          "en-org"
+        ],
+        "skips": {
+          "recap": [
+            "0:00-1:17"
+          ],
+          "intro": [],
+          "outro": [],
+          "next": [
+            "46:29-50:23"
+          ]
+        }
+      },
+      "5": {
+        "url": "https://fembed.co/embed/d2H3290-yQ_vj",
+        "quality": "1080p",
+        "audio": [
+          "pl-dub",
+          "en-org"
+        ],
+        "skips": {
+          "recap": [
+            "0:00-1:14"
+          ],
+          "intro": [],
+          "outro": [],
+          "next": []
+        }
+      },
+      "6": {
+        "url": "https://fembed.co/embed/KNU-teRBf_SzM",
+        "quality": "1080p",
+        "audio": [
+          "pl-dub",
+          "en-org"
+        ],
+        "skips": {
+          "recap": [],
+          "intro": [],
+          "outro": [],
+          "next": []
+        }
       }
     }
   }
