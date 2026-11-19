@@ -1,0 +1,22 @@
+{
+  "seasons": {
+    "1": {
+      "1": {
+        "url": "https://fembed.co/embed/5y8ON3R-k_9Sx",
+        "quality": "1080p",
+        "audio": [
+          "pl-dub",
+          "en-org"
+        ],
+        "skips": {
+          "recap": [],
+          "intro": [],
+          "outro": [],
+          "next": [
+            "37:04-40:58"
+          ]
+        }
+      }
+    }
+  }
+}
