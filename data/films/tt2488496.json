@@ -1,0 +1,22 @@
+{
+  "url": "",
+  "quality": "1080p",
+  "audio": [
+    "pl-dub",
+    "en-org"
+  ],
+  "skips": {
+    "recap": [],
+    "intro": [
+      "0:00-1:44"
+    ],
+    "outro": [
+      "2:07:07-2:18:08"
+    ],
+    "next": [],
+    "none": [
+      "recap",
+      "next"
+    ]
+  }
+}
