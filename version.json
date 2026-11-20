@@ -1,9 +1,16 @@
 {
-  "version": "0.1.0-beta.1",
-  "notes": "Pierwsza wersja beta UDPlixa.",
-  "notes_en": "First UDPlix beta.",
-  "url": "https://github.com/Palskilen/UDPLIX-repository/raw/main/wersje/0.1.0-beta.1/UDPlix-0.1.0-beta.1.zip",
+  "version": "0.1.0-beta.2",
+  "notes": "Płynny pełny ekran, koniec filmu z propozycjami, osobne dane na profil, wyszukiwarka w uniwersum.",
+  "notes_en": "Smooth fullscreen, end-of-film recommendations, separate data per profile, search inside a universe.",
+  "url": "https://github.com/Palskilen/UDPLIX-repository/raw/main/wersje/0.1.0-beta.2/UDPlix-0.1.0-beta.2.zip",
   "versions": [
+    {
+      "version": "0.1.0-beta.2",
+      "date": "2026-11-20",
+      "notes": "Płynny pełny ekran, koniec filmu z propozycjami, osobne dane na profil, wyszukiwarka w uniwersum.",
+      "notes_en": "Smooth fullscreen, end-of-film recommendations, separate data per profile, search inside a universe.",
+      "url": "https://github.com/Palskilen/UDPLIX-repository/raw/main/wersje/0.1.0-beta.2/UDPlix-0.1.0-beta.2.zip"
+    },
     {
       "version": "0.1.0-beta.1",
       "date": "2026-11-19",
