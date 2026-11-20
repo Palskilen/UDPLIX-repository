@@ -1,8 +1,21 @@
 {
-  "variants": [],
+  "variants": [
+    {
+      "url": "https://fembed.co/embed/zeLV-tZ_PscmB",
+      "quality": "1080p",
+      "audio": [
+        "pl-dub",
+        "en-org"
+      ]
+    }
+  ],
   "skips": {
     "recap": [],
-    "intro": [],
-    "outro": []
+    "intro": [
+      "0:00-1:54"
+    ],
+    "outro": [
+      "2:01:59-2:07:27"
+    ]
   }
 }
